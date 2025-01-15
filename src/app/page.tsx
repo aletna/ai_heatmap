@@ -115,7 +115,7 @@ export default function Home() {
                     <br />
                     💻 This project is{" "}
                     <a
-                        href="https://github.com/your-repo-link"
+                        href="https://github.com/aletna/ai_heatmap"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-blue-600 hover:underline"
