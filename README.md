@@ -4,6 +4,10 @@ A web-based visualization tool that generates a heatmap of your ChatGPT usage pa
 
 🔗 **Live Demo**: [aiheatmap.dennisamz.com](https://aiheatmap.dennisamz.com)
 
+## Preview
+
+![AI Heatmap Example](./assets/example-heatmap.png)
+
 ## Features
 
 -   📊 Visualize your ChatGPT conversation frequency in a calendar heatmap
